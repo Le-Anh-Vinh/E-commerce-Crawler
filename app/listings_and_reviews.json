@@ -1,0 +1,107 @@
+{
+  "united-states/ny/albany": {
+    "date": "2025-06-09",
+    "listings": "https://data.insideairbnb.com/united-states/ny/albany/2025-06-09/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/ny/albany/2025-06-09/data/reviews.csv.gz"
+  },
+  "the-netherlands/north-holland/amsterdam": {
+    "date": "2025-05-03",
+    "listings": "https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-05-03/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-05-03/data/reviews.csv.gz"
+  },
+  "belgium/vlg/antwerp": {
+    "date": "2025-06-25",
+    "listings": "https://data.insideairbnb.com/belgium/vlg/antwerp/2025-06-25/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/belgium/vlg/antwerp/2025-06-25/data/reviews.csv.gz"
+  },
+  "united-states/nc/asheville": {
+    "date": "2025-06-17",
+    "listings": "https://data.insideairbnb.com/united-states/nc/asheville/2025-06-17/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/nc/asheville/2025-06-17/data/reviews.csv.gz"
+  },
+  "greece/attica/athens": {
+    "date": "2025-06-24",
+    "listings": "https://data.insideairbnb.com/greece/attica/athens/2025-06-24/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/greece/attica/athens/2025-06-24/data/reviews.csv.gz"
+  },
+  "united-states/tx/austin": {
+    "date": "2025-06-13",
+    "listings": "https://data.insideairbnb.com/united-states/tx/austin/2025-06-13/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/tx/austin/2025-06-13/data/reviews.csv.gz"
+  },
+  "thailand/central-thailand/bangkok": {
+    "date": "2025-03-19",
+    "listings": "https://data.insideairbnb.com/thailand/central-thailand/bangkok/2025-03-19/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/thailand/central-thailand/bangkok/2025-03-19/data/reviews.csv.gz"
+  },
+  "spain/catalonia/barcelona": {
+    "date": "2025-06-12",
+    "listings": "https://data.insideairbnb.com/spain/catalonia/barcelona/2025-06-12/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/spain/catalonia/barcelona/2025-06-12/data/reviews.csv.gz"
+  },
+  "australia/sa/barossa-valley": {
+    "date": "2025-06-25",
+    "listings": "https://data.insideairbnb.com/australia/sa/barossa-valley/2025-06-25/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/australia/sa/barossa-valley/2025-06-25/data/reviews.csv.gz"
+  },
+  "australia/vic/barwon-south-west-vic": {
+    "date": "2025-06-25",
+    "listings": "https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2025-06-25/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2025-06-25/data/reviews.csv.gz"
+  },
+  "china/beijing/beijing": {
+    "date": "2024-12-27",
+    "listings": "https://data.insideairbnb.com/china/beijing/beijing/2024-12-27/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/china/beijing/beijing/2024-12-27/data/reviews.csv.gz"
+  },
+  "belize/bz/belize": {
+    "date": "2025-03-23",
+    "listings": "https://data.insideairbnb.com/belize/bz/belize/2025-03-23/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/belize/bz/belize/2025-03-23/data/reviews.csv.gz"
+  },
+  "italy/lombardia/bergamo": {
+    "date": "2025-03-27",
+    "listings": "https://data.insideairbnb.com/italy/lombardia/bergamo/2025-03-27/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/italy/lombardia/bergamo/2025-03-27/data/reviews.csv.gz"
+  },
+  "germany/be/berlin": {
+    "date": "2025-06-20",
+    "listings": "https://data.insideairbnb.com/germany/be/berlin/2025-06-20/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/germany/be/berlin/2025-06-20/data/reviews.csv.gz"
+  },
+  "italy/emilia-romagna/bologna": {
+    "date": "2025-06-19",
+    "listings": "https://data.insideairbnb.com/italy/emilia-romagna/bologna/2025-06-19/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/italy/emilia-romagna/bologna/2025-06-19/data/reviews.csv.gz"
+  },
+  "france/nouvelle-aquitaine/bordeaux": {
+    "date": "2025-06-15",
+    "listings": "https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2025-06-15/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2025-06-15/data/reviews.csv.gz"
+  },
+  "united-states/ma/boston": {
+    "date": "2025-06-19",
+    "listings": "https://data.insideairbnb.com/united-states/ma/boston/2025-06-19/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/ma/boston/2025-06-19/data/reviews.csv.gz"
+  },
+  "united-states/mt/bozeman": {
+    "date": "2025-06-10",
+    "listings": "https://data.insideairbnb.com/united-states/mt/bozeman/2025-06-10/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/mt/bozeman/2025-06-10/data/reviews.csv.gz"
+  },
+  "australia/qld/brisbane": {
+    "date": "2025-06-09",
+    "listings": "https://data.insideairbnb.com/australia/qld/brisbane/2025-06-09/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/australia/qld/brisbane/2025-06-09/data/reviews.csv.gz"
+  },
+  "united-kingdom/england/bristol": {
+    "date": "2025-03-19",
+    "listings": "https://data.insideairbnb.com/united-kingdom/england/bristol/2025-03-19/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-kingdom/england/bristol/2025-03-19/data/reviews.csv.gz"
+  },
+  "united-states/fl/broward-county": {
+    "date": "2025-03-19",
+    "listings": "https://data.insideairbnb.com/united-states/fl/broward-county/2025-03-19/data/listings.csv.gz",
+    "reviews": "https://data.insideairbnb.com/united-states/fl/broward-county/2025-03-19/data/reviews.csv.gz"
+  }
+}
