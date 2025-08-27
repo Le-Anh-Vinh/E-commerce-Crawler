@@ -9,6 +9,7 @@ options = Options()
 options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 options.add_argument("--log-level=3")
+options.binary_location = "/usr/bin/chromium-browser"  # <- important
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
